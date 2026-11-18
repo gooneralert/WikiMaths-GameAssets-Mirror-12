@@ -1,0 +1,103 @@
+{
+  "slug": "resident-evil-2",
+  "title": "Resident Evil 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/res2.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/res2.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/res2.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/res2.html",
+  "entryUrl": "https://truffled.lol/gamefile/res2.html",
+  "status": "done",
+  "sizeBytes": 372304409,
+  "assetCount": 29,
+  "known404": [
+    "https://truffled.lol/gamefile/asd.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/emulator.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/GameManager.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/storage.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/socket.io.min.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/compression.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/.json"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/gamefile/asd.js",
+      "error": "HTTP 404 for https://truffled.lol/gamefile/asd.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/emulator.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/emulator.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/GameManager.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/GameManager.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/shaders.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/shaders.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/storage.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/storage.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/socket.io.min.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/socket.io.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/nipplejs.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/nipplejs.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/gamepad.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/gamepad.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/compression.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/compression.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/.json",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T19:39:47.230Z",
+  "verifiedAt": "2026-11-17T19:40:53.580Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.2646,
+    "rendered": true
+  }
+}
