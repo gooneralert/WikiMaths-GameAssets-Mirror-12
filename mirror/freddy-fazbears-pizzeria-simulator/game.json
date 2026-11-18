@@ -1,0 +1,98 @@
+{
+  "slug": "freddy-fazbears-pizzeria-simulator",
+  "title": "Freddy Fazbear's Pizzeria Simulator",
+  "type": "HTML",
+  "developer": "Scott Cawthon",
+  "description": "Start your own Freddy Fazbear's Pizzeria with Freddy Fazbear Pizzeria Simulator!",
+  "tags": [
+    "Horror",
+    "Point & Click",
+    "Indie",
+    "Strategy",
+    "Survival"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "34aa1d02-a522-4f99-bf62-2595a30e9a8f",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/index.html",
+  "status": "done",
+  "sizeBytes": 379457946,
+  "assetCount": 50,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/resources.zip",
+    "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/fire1D.png",
+    "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/joyback.png",
+    "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/fire1U.png",
+    "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/joyfront.png",
+    "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/Preloader.png",
+    "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/fire2U.png",
+    "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/fire2D.png"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/resources.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/resources.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/fire1D.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/fire1D.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/joyback.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/joyback.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/fire1U.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/fire1U.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/joyfront.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/joyfront.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/Preloader.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/Preloader.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/fire2U.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/fire2U.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/fire2D.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/34aa1d02-a522-4f99-bf62-2595a30e9a8f/1/fire2D.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:27:50.410Z",
+  "verifiedAt": "2026-11-16T15:33:24.160Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Freddy Fazbear's Pizzeria Simulator",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 3063,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}
