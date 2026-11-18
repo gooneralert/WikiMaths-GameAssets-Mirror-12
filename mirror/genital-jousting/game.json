@@ -1,0 +1,80 @@
+{
+  "slug": "genital-jousting",
+  "title": "Genital Jousting",
+  "type": "HTML",
+  "developer": "Free Lives",
+  "description": "Genital Jousting tells the story of \"John\", a penis who needs to find a date for his high school reunion. Genital Jousting is also an online and local multiplayer party game about flaccid penises and wiggly anuses for up to eight players at once.",
+  "tags": [
+    "Comedy",
+    "Casual",
+    "Indie",
+    "Physics",
+    "Funny"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "1e125c84-f4c3-48d3-a7f0-95ccb858bfcc",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/1e125c84-f4c3-48d3-a7f0-95ccb858bfcc/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/1e125c84-f4c3-48d3-a7f0-95ccb858bfcc/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/1e125c84-f4c3-48d3-a7f0-95ccb858bfcc/1/index.html",
+  "status": "done",
+  "sizeBytes": 358554362,
+  "assetCount": 36,
+  "known404": [
+    "https://playobsidian.com/port.loader.js",
+    "https://playobsidian.com/port.wasm",
+    "https://playobsidian.com/port.data",
+    "https://playobsidian.com/port.framework.js",
+    "https://playobsidian.com/cdn/assets/html/1e125c84-f4c3-48d3-a7f0-95ccb858bfcc/1/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/port.loader.js",
+      "error": "HTTP 404 for https://playobsidian.com/port.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/port.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/port.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/port.data",
+      "error": "HTTP 404 for https://playobsidian.com/port.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/port.framework.js",
+      "error": "HTTP 404 for https://playobsidian.com/port.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1e125c84-f4c3-48d3-a7f0-95ccb858bfcc/1/Build/build.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1e125c84-f4c3-48d3-a7f0-95ccb858bfcc/1/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:32:25.445Z",
+  "verifiedAt": "2026-11-16T15:37:36.714Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Genital Jousting",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}
