@@ -1,0 +1,98 @@
+{
+  "mirror/slient-hill/__external__/bbcdn.githack.com/johnbones/john/raw/main/Silent Hill (Europe) (En,Fr,De,Es,It).zip": {
+    "size": 338432875,
+    "parts": [
+      {
+        "path": "mirror/slient-hill/__external__/bbcdn.githack.com/johnbones/john/raw/main/Silent Hill (Europe) (En,Fr,De,Es,It).zip.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/slient-hill/__external__/bbcdn.githack.com/johnbones/john/raw/main/Silent Hill (Europe) (En,Fr,De,Es,It).zip.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/slient-hill/__external__/bbcdn.githack.com/johnbones/john/raw/main/Silent Hill (Europe) (En,Fr,De,Es,It).zip.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/slient-hill/__external__/bbcdn.githack.com/johnbones/john/raw/main/Silent Hill (Europe) (En,Fr,De,Es,It).zip.part004",
+        "size": 68432875
+      }
+    ]
+  },
+  "mirror/gta-ii/gta2.zip": {
+    "size": 390975156,
+    "parts": [
+      {
+        "path": "mirror/gta-ii/gta2.zip.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/gta-ii/gta2.zip.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/gta-ii/gta2.zip.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/gta-ii/gta2.zip.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/gta-ii/gta2.zip.part005",
+        "size": 30975156
+      }
+    ]
+  },
+  "mirror/doom-3/demo_game01.data": {
+    "size": 388213789,
+    "parts": [
+      {
+        "path": "mirror/doom-3/demo_game01.data.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/doom-3/demo_game01.data.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/doom-3/demo_game01.data.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/doom-3/demo_game01.data.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/doom-3/demo_game01.data.part005",
+        "size": 28213789
+      }
+    ]
+  },
+  "mirror/brawlhalla/startup.pack": {
+    "size": 391696449,
+    "parts": [
+      {
+        "path": "mirror/brawlhalla/startup.pack.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/brawlhalla/startup.pack.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/brawlhalla/startup.pack.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/brawlhalla/startup.pack.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/brawlhalla/startup.pack.part005",
+        "size": 31696449
+      }
+    ]
+  }
+}

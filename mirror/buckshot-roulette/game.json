@@ -1,0 +1,123 @@
+{
+  "slug": "buckshot-roulette",
+  "title": "Buckshot Roulette",
+  "type": "HTML",
+  "developer": "Mike Klubnika",
+  "description": "Shoot Your Friends Take a seat at the new 4-way multiplayer table. Bargain. Beg. Betray. Become the ultimate victor. Walk away rich.",
+  "tags": [
+    "Horror",
+    "Strategy",
+    "Roguelite",
+    "First-Person",
+    "Dark",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "3d6e3130-003d-4548-8426-89614184c94d",
+  "sourceVersion": "1.2.0",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/index.html",
+  "status": "done",
+  "sizeBytes": 388740274,
+  "assetCount": 54,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/buckshot-roulette.wasm",
+    "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/buckshot-roulette.pck",
+    "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.mp3",
+    "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.wav",
+    "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/godot.audio.position.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.ogg",
+    "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/godot.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.wasm",
+    "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.audio.position.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.side.wasm",
+    "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.js"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/buckshot-roulette.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/buckshot-roulette.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/buckshot-roulette.pck",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/buckshot-roulette.pck",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.wav",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/godot.audio.position.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/godot.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/godot.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.audio.position.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.side.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.side.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/3d6e3130-003d-4548-8426-89614184c94d/1.2.0/.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:07:54.025Z",
+  "verifiedAt": "2026-11-18T06:44:05.665Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Buckshot Roulette",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1280,
+      "height": 713
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0108,
+    "rendered": true
+  }
+}

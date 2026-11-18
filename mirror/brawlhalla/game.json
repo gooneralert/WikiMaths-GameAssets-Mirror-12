@@ -1,0 +1,48 @@
+{
+  "slug": "brawlhalla",
+  "title": "Brawlhalla",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/brawlhalla/index.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/games/brawlhalla/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/brawlhalla/index.html",
+  "status": "done",
+  "sizeBytes": 410245466,
+  "assetCount": 35,
+  "known404": [
+    "https://truffled.lol/games/brawlhalla/servers.json"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/brawlhalla/servers.json",
+      "error": "HTTP 404 for https://truffled.lol/games/brawlhalla/servers.json",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-16T14:03:58.087Z",
+  "verifiedAt": "2026-11-16T14:05:20.345Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Brawlhalla",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.8775,
+    "rendered": true
+  }
+}
