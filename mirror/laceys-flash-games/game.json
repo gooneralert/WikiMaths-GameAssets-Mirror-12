@@ -1,0 +1,85 @@
+{
+  "slug": "laceys-flash-games",
+  "title": "Lacey's Flash Games",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/lacy.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/lacy.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/lacey.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/lacy.html",
+  "entryUrl": "https://truffled.lol/gamefile/lacy.html",
+  "status": "done",
+  "sizeBytes": 430499451,
+  "assetCount": 50,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/main.data",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/main.data",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/.ogg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/.ogg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/.worker.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/.worker.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/.side.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/lacysflashgames/.side.wasm",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T12:19:44.128Z",
+  "verifiedAt": "2026-11-17T12:20:50.783Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Lacey's Flash Games",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1280,
+      "height": 720
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0815,
+    "rendered": true
+  }
+}
